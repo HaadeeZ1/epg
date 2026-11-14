@@ -1,0 +1,7 @@
+# TV guide
+
+Built by EPG Matcher 4.0 on 2026-11-14 23:30 UTC.
+
+Guide link for your IPTV app:
+
+    https://raw.githubusercontent.com/HaadeeZ1/epg/main/epg.xml.gz
